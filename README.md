@@ -52,16 +52,25 @@ Start Apache and MySQL in XAMPP/WAMP.
 Open in browser:
 
 http://localhost/venue-booking-system/index.php
+
 ## 📸 Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
+### Admin Login Page
+![Admin Login Page UI](screenshots/login.png)
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Admin Dashboard
+![Admin Dashboard Interface](screenshots/dashboard.png)
 
 ### Venue Booking Form
-![Booking Form](screenshots/booking.png)
+![Venue Booking Form Example](screenshots/booking.png)
+
+---
+
+📌 **Contributor Note**  
+- Store all screenshots in the `screenshots/` folder (same level as `README.md`).  
+- Use **clear, lowercase filenames** with hyphens (e.g., `login.png`, `dashboard.png`, `booking-form.png`).  
+- Keep images optimized (compressed) to reduce repository size.  
+- Add meaningful alt text when referencing screenshots in the README for accessibility.
 
 
 
