@@ -11,7 +11,8 @@
 			$_SESSION['admin_id'] = $fetch['admin_id'];
 			header('location:home.php');
 		}else{
-			echo "<center><labe style = 'color:red;'>Invalid username or password</label></center>";
+			echo "<center><label style = 'color:red;'>Invalid username or password</label></center>";
 		}
 	}
+
 ?>
