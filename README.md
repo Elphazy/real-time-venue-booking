@@ -68,7 +68,7 @@ http://localhost/venue-booking-system/index.php
 
 📌 **Contributor Note**  
 - Store all screenshots in the `screenshots/` folder (same level as `README.md`).  
-- Use **clear, lowercase filenames** with hyphens (e.g., `login.png`, `dashboard.png`, `booking-form.png`).  
+- Use **clear, lowercase filenames** with hyphens (e.g., `admin_venuebooking_login.png`, `dashboard_venuebooking.png`, `venuebookingform.png`).  
 - Keep images optimized (compressed) to reduce repository size.  
 - Add meaningful alt text when referencing screenshots in the README for accessibility.
 
