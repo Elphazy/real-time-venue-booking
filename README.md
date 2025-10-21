@@ -59,7 +59,7 @@ http://localhost/venue-booking-system/index.php
 ![Admin Login Page UI](screenshots/login.png)
 
 ### Admin Dashboard
-![Admin Dashboard Interface](screenshots/dashboard.png)
+![Admin Dashboard Interface](screenshots/dashboard_venuebooking.png)
 
 ### Venue Booking Form
 ![Venue Booking Form Example](screenshots/booking.png)
